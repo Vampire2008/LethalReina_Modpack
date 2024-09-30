@@ -17,7 +17,7 @@ jobs:
         shell: pwsh
         run: ./pack.ps1
 
-      - uses: GreenTF/upload-thunderstore-package@v4.3
+      - uses: GreenTF/upload-thunderstore-package@0edabca9fe3fe522375ffab9f215d09eeedd611b
         with:
           namespace: Citizen17 # the thunderstore 'team' to publish under
           description: Modpack for Reina Mort friends
