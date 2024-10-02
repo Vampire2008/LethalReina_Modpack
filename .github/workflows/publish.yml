@@ -31,6 +31,6 @@ jobs:
           version: ${{ github.event_name == 'workflow_dispatch' && inputs.version || github.ref_name }} # Use the tag as the package version
           community: lethal-company
           file: ./LethalReina_Modpack.zip
-          # repo: thunderstore.io
+          repo: thunderstore.io
           categories: | # <-- notice this pipe character
             modpacks
