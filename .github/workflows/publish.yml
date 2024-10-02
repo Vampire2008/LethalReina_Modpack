@@ -4,6 +4,11 @@ on:
   push:
     tags:
       - "*"
+  workflow_dispatch:
+    inputs:
+      version:
+        required: true
+        type: string
 
 jobs:
   publish:
@@ -23,9 +28,9 @@ jobs:
           description: Modpack for Reina Mort friends
           token: ${{ secrets.Thunderstore }}
           name: LethalReina_Modpack # the name of the package
-          version: ${{ github.ref_name }} # Use the tag as the package version
+          version: ${{ github.event_name == 'workflow_dispatch' && inputs.version || github.ref_name }} # Use the tag as the package version
           community: lethal-company
           file: ./LethalReina_Modpack.zip
-          #repo: northstar.thunderstore.io
+          # repo: thunderstore.io
           categories: | # <-- notice this pipe character
             modpacks
