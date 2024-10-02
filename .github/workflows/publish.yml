@@ -1,4 +1,4 @@
-name: Publish Mod
+name: Publish Mods
 
 on:
   push:
@@ -28,7 +28,7 @@ jobs:
 
       - name: Pack base
         if: inputs.pack-base
-        uses: ./publish-mod.yml
+        uses: ./.github/workflows/publish-mod.yml
         with:
           mod: base
 

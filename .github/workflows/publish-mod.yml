@@ -1,4 +1,4 @@
-name: Publish Mod
+name: Publish Mod core
 
 on:
   workflow_call: 
