@@ -21,7 +21,7 @@ jobs:
       - name: Publish artifact
         uses: actions/upload-artifact@v4
         with:
-            path: ./dist/LethalReina_Modpack${{ inputs.mod }}.zip
+            path: ./dist/LethalReina_Modpack_${{ inputs.mod }}.zip
             overwrite: true
 
     #   - uses: GreenTF/upload-thunderstore-package@0edabca9fe3fe522375ffab9f215d09eeedd611b
@@ -32,7 +32,7 @@ jobs:
     #       name: LethalReina_Modpack # the name of the package
     #       version: "1.0.0" # Not actually used
     #       community: lethal-company
-    #       file: ./dist/LethalReina_Modpack${{ inputs.mod }}.zip
+    #       file: ./dist/LethalReina_Modpack_${{ inputs.mod }}.zip
     #       repo: thunderstore.io
     #       categories: | # <-- notice this pipe character
     #         modpacks
