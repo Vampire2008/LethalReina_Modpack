@@ -1,0 +1,39 @@
+name: Publish Mod
+
+on:
+  workflow_call: 
+    inputs:
+      mod:
+        type: string
+        required: true
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      # Use checkout to publish the files in your repo
+      - name: 'checkout'
+        uses: actions/checkout@v4
+
+      - name: 'pack'
+        shell: pwsh
+        run: ./pack.ps1 -mod ${{ inputs.mod }}
+
+      - name: Publish artifact
+        uses: actions/upload-artifact@v4
+        with:
+            path: ./dist/LethalReina_Modpack${{ inputs.mod }}.zip
+            overwrite: true
+
+    #   - uses: GreenTF/upload-thunderstore-package@0edabca9fe3fe522375ffab9f215d09eeedd611b
+    #     with:
+    #       namespace: Citizen17 # the thunderstore 'team' to publish under
+    #       description: Modpack for Reina Mort friends
+    #       token: ${{ secrets.Thunderstore }}
+    #       name: LethalReina_Modpack # the name of the package
+    #       version: "1.0.0" # Not actually used
+    #       community: lethal-company
+    #       file: ./dist/LethalReina_Modpack${{ inputs.mod }}.zip
+    #       repo: thunderstore.io
+    #       categories: | # <-- notice this pipe character
+    #         modpacks

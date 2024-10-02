@@ -6,31 +6,38 @@ on:
       - "*"
   workflow_dispatch:
     inputs:
-      version:
+      pack-base:
+        type: boolean
         required: true
-        type: string
+        default: false
+      pack-light:
+        type: boolean
+        required: true
+        default: false
+      pack-hard:
+        type: boolean
+        required: true
+        default: false
 
 jobs:
   publish:
     runs-on: ubuntu-latest
     steps:
       # Use checkout to publish the files in your repo
-      - name: 'checkout'
-        uses: actions/checkout@v4
-
-      - name: 'pack'
-        shell: pwsh
-        run: ./pack.ps1
-
-      - uses: GreenTF/upload-thunderstore-package@0edabca9fe3fe522375ffab9f215d09eeedd611b
+      - name: Pack base
+        if: inputs.pack-base
+        uses: ./publish-mod.yml
         with:
-          namespace: Citizen17 # the thunderstore 'team' to publish under
-          description: Modpack for Reina Mort friends
-          token: ${{ secrets.Thunderstore }}
-          name: LethalReina_Modpack # the name of the package
-          version: ${{ github.event_name == 'workflow_dispatch' && inputs.version || github.ref_name }} # Use the tag as the package version
-          community: lethal-company
-          file: ./LethalReina_Modpack.zip
-          repo: thunderstore.io
-          categories: | # <-- notice this pipe character
-            modpacks
+          mod: base
+
+      - name: Pack hard
+        if: inputs.pack-hard
+        uses: ./publish-mod.yml
+        with:
+          mod: hard
+
+      - name: Pack light
+        if: inputs.pack-light
+        uses: ./publish-mod.yml
+        with:
+          mod: light
