@@ -20,26 +20,20 @@ on:
         default: false
 
 jobs:
-  publish:
-    runs-on: ubuntu-latest
-    steps:
-      - name: 'checkout'
-        uses: actions/checkout@v4
+  publish-base:
+    if: inputs.pack-base
+    uses: ./.github/workflows/publish-mod.yml
+    with:
+      mod: base
+  
+  publish-hard:
+    if: inputs.pack-hard
+    uses: ./.github/workflows/publish-mod.yml
+    with:
+      mod: hard
 
-      - name: Pack base
-        if: inputs.pack-base
-        uses: ./.github/workflows/publish-mod.yml
-        with:
-          mod: base
-
-      - name: Pack hard
-        if: inputs.pack-hard
-        uses: ./publish-mod.yml
-        with:
-          mod: hard
-
-      - name: Pack light
-        if: inputs.pack-light
-        uses: ./publish-mod.yml
-        with:
-          mod: light
+  publish-light:
+    if: inputs.pack-light
+    uses: ./.github/workflows/publish-mod.yml
+    with:
+      mod: light
