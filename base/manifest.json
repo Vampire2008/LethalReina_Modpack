@@ -1,9 +1,9 @@
 {
-  "name": "LethalReina_Modpack",
+  "name": "LethalReina_Base_Modpack",
   "author": "KainStropov",
-  "version_number": "1.1.0",
+  "version_number": "1.0.0",
   "website_url": "",
-  "description": "Modpack for Reina Mort friends",
+  "description": "Base modpack for Reina Mort friends",
   "dependencies": [
     "red_eye-LethalAutocomplete-0.4.5",
     "sunnobunno-YippeeMod-1.2.4",
@@ -30,7 +30,6 @@
     "Scintesto-Monster_Plushies-1.2.9",
     "qwbarch-Mirage-1.10.0",
     "TheFluff-FairAI-1.3.9",
-    "FlipMods-ReservedItemSlotCore-2.0.37",
     "FlipMods-ReservedWalkieSlot-2.0.6",
     "FlipMods-TooManyEmotes-2.2.7",
     "AudioKnight-StarlancerAIFix-3.8.3",

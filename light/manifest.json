@@ -1,0 +1,8 @@
+{
+  "name": "LethalReina_Modpack_Light",
+  "author": "KainStropov",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "Light Modpack for Reina Mort friends",
+  "dependencies": ["Citizen17-LethalReina_Base_Modpack-1.0.0"]
+}
