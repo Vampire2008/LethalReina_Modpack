@@ -4,8 +4,5 @@
   "version_number": "1.0.0",
   "website_url": "https://github.com/Vampire2008/LethalReina_Modpack",
   "description": "Extended modpack for Reina Mort friends that make game harder",
-  "dependencies": [
-    "Citizen17-LethalReina_Modpack-1.0.0",
-    "x753-Mimics-2.6.4"
-  ]
+  "dependencies": ["Citizen17-LethalReina_Modpack-1.2.0", "x753-Mimics-2.6.4"]
 }
