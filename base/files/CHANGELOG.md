@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.2.2
+
+Updated Readme
+
 ## v1.2.0
 
 Added CustomPaintings, LCFurryCommissions, Maxwell_ScrapItem and additional configs

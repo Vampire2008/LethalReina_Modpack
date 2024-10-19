@@ -5,9 +5,9 @@ Modpacks for Lethal Company to play with friends
 
 There are 3 modpacks:
 
-* Base - common mods that used by all
+* [Base](https://thunderstore.io/c/lethal-company/p/Citizen17/LethalReina_Modpack/) - common mods that used by all
 * Light - includes some mods that simplified game
-* Hard - includes some mods that make game harder
+* [Hard](https://thunderstore.io/c/lethal-company/p/Citizen17/LethalReina_Hard_Modpack/) - includes some mods that make game harder
 
 ## Base
 

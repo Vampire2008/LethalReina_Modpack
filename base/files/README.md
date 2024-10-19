@@ -48,6 +48,8 @@ After installing update all mods to latest versions
 
 ## Русский
 
+Модпак для друзей Reina Mort.
+
 ### Дополнительные действия
 
 После установки обновите все моды до последней версии

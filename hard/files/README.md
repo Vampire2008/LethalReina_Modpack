@@ -3,6 +3,7 @@
 ## English:
 
 Extended modpack for Reina Mort friends that make game harder.
+Recomended to read [base modpack](https://thunderstore.io/c/lethal-company/p/Citizen17/LethalReina_Modpack/) Readme.
 
 ### Additional mods:
 
@@ -11,6 +12,9 @@ Extended modpack for Reina Mort friends that make game harder.
 Also includes custom config for GeneralImprovements that add nameplate to mimics and disaples rotaing on cameras.
 
 ## Русский
+
+Расширенный модпак для друзей Reina Mort, который усложняет игру.
+Рекомендуется прочитать описание [базового модпака](https://thunderstore.io/c/lethal-company/p/Citizen17/LethalReina_Modpack/).
 
 ### Дополнительные моды:
 
