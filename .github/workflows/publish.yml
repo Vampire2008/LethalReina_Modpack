@@ -22,15 +22,21 @@ jobs:
     uses: ./.github/workflows/publish-mod.yml
     with:
       mod: base
+    secrets: 
+      token: ${{ secrets.THUNDERSTORE }}
   
   publish-hard:
     if: inputs.pack-hard
     uses: ./.github/workflows/publish-mod.yml
     with:
       mod: hard
+    secrets: 
+      token: ${{ secrets.THUNDERSTORE }}
 
   # publish-light:
   #   if: inputs.pack-light
   #   uses: ./.github/workflows/publish-mod.yml
   #   with:
   #     mod: light
+    # secrets: 
+    #   token: ${{ secrets.THUNDERSTORE }}

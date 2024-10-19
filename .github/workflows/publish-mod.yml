@@ -6,6 +6,9 @@ on:
       mod:
         type: string
         required: true
+    secrets:
+      token:
+        required: true
 
 jobs:
   publish:
@@ -30,7 +33,7 @@ jobs:
         with:
           namespace: Citizen17 # the thunderstore 'team' to publish under
           description: Modpack for Reina Mort friends
-          token: ${{ secrets.THUNDERSTORE }}
+          token: ${{ secrets.token }}
           name: LethalReina_Modpack # the name of the package
           version: "1.0.0" # Not actually used
           community: lethal-company
