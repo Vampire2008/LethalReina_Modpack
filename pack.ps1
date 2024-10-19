@@ -15,4 +15,10 @@ if (Test-Path $outputFile) {
     Remove-Item $outputFile
 }
 
-Compress-Archive -Path ("$PSScriptRoot/$mod/*") -DestinationPath $outputFile
+$manifest = Get-Content "$PSScriptRoot/$mod/manifest.json" -Raw | ConvertFrom-Json
+$dependencies = Get-Content "$PSScriptRoot/common/base-dependencies.json" -Raw | ConvertFrom-Json
+
+$manifest.dependencies += $dependencies
+ConvertTo-Json $manifest | Out-File "$PSScriptRoot/$mod/files/manifest.json"
+
+Compress-Archive -Path ("$PSScriptRoot/$mod/files/*", "$PSScriptRoot/common/files/*") -DestinationPath $outputFile
