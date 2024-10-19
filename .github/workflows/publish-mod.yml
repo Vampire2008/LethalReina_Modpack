@@ -30,7 +30,7 @@ jobs:
         with:
           namespace: Citizen17 # the thunderstore 'team' to publish under
           description: Modpack for Reina Mort friends
-          token: ${{ secrets.Thunderstore }}
+          token: ${{ secrets.THUNDERSTORE }}
           name: LethalReina_Modpack # the name of the package
           version: "1.0.0" # Not actually used
           community: lethal-company

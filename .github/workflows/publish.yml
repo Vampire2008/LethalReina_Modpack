@@ -7,10 +7,10 @@ on:
         type: boolean
         required: true
         default: false
-      pack-light:
-        type: boolean
-        required: true
-        default: false
+      # pack-light:
+      #   type: boolean
+      #   required: true
+      #   default: false
       pack-hard:
         type: boolean
         required: true
@@ -29,8 +29,8 @@ jobs:
     with:
       mod: hard
 
-  publish-light:
-    if: inputs.pack-light
-    uses: ./.github/workflows/publish-mod.yml
-    with:
-      mod: light
+  # publish-light:
+  #   if: inputs.pack-light
+  #   uses: ./.github/workflows/publish-mod.yml
+  #   with:
+  #     mod: light
