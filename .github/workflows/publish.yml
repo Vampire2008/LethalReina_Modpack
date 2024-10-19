@@ -1,9 +1,6 @@
 name: Publish Mods
 
 on:
-  push:
-    tags:
-      - "*"
   workflow_dispatch:
     inputs:
       pack-base:

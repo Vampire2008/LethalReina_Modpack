@@ -1,4 +1,5 @@
 # LethalReina Modpacks
+Lang: **English** | [Русский](./Readme.ru.md)
 
 Modpacks for Lethal Company to play with friends
 
@@ -6,7 +7,7 @@ There are 3 modpacks:
 
 * Base - common mods that used by all
 * Light - includes some mods that simplified game
-* Hard (but named as regular modpack) - includes some mods that make game harder
+* Hard - includes some mods that make game harder
 
 ## Base
 
@@ -34,6 +35,9 @@ Included mods:
 * [Terminal Clock](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/Terminal_Clock/) - displays timer on terminal
 * [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/) - adds many emotes (**custom config included**)
 * [YippeeMod](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/) - Changes the chitter SFX of the Hoarding Bug to the yippee-tbh sound
+* [Maxwell ScrapItem](https://thunderstore.io/c/lethal-company/p/Kittenji/Maxwell_ScrapItem/) - Adds Maxwell cat as scrap
+* [CustomPaintings](https://thunderstore.io/c/lethal-company/p/Boniato/CustomPaintings/) - Replaces Paiting textures (**custom config included**)
+* * [LCFurryCommissions](https://thunderstore.io/c/lethal-company/p/Citizen17/LCFurryCommissions/) - Personal paitings collections
 * [More Suits](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/) - base mod for adding suietes
 * * [TooManySuits](https://thunderstore.io/c/lethal-company/p/Verity/TooManySuits/) - More Suits Addon that adds pages to the suit rack.
 * * [davson suitpack](https://thunderstore.io/c/lethal-company/p/davson/davson_suitpack/) - A mega pack of 37+ the character skin suits
@@ -47,4 +51,12 @@ Included mods:
 
 ## Hard
 
-Includes only custom config for GeneralImprovements that add nameplate to mimics and disaples rotaing on cameras
+Additional mods:
+
+* [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/) - adds additinal fire exits but they are mimics
+
+Also includes custom config for GeneralImprovements that add nameplate to mimics and disaples rotaing on cameras.
+
+## Light
+
+Currently not used.
