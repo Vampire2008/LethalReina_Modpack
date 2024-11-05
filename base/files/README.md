@@ -6,7 +6,10 @@ Modpack for Reina Mort friends
 
 ### Additional steps
 
-After installing update all mods to latest versions
+- Update all mods to latest versions
+- Lauch game and close it. It needs to creating all config files.
+- Open config editing and find `CreatureReplacement.cfg`
+- Change parameter **Suits to enable Model for** to **CARed,CAGreen,CAHaz,CAPajam,CAPurp**
 
 ### Included mods
 
@@ -52,7 +55,10 @@ After installing update all mods to latest versions
 
 ### Дополнительные действия
 
-После установки обновите все моды до последней версии
+- Обновите все моды до последней версии.
+- Запустите игру и сразу выйдете, чтобы все конфиг файлы создались.
+- Откройте редактирование кофигов и найдите `CreatureReplacement.cfg`
+- В нём поменяйте параметр **Suits to enable Model for** на **CARed,CAGreen,CAHaz,CAPajam,CAPurp**
 
 ### Включённые моды
 

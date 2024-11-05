@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.2.3
+
+Removed config for LethalCreature, but added instruction for configuring it.
+
 ## v1.2.2
 
 Updated Readme
