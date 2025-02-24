@@ -24,6 +24,7 @@ Included mods:
 * [LethalAutocomplete](https://thunderstore.io/c/lethal-company/p/red_eye/LethalAutocomplete/) - add autocomplete and history featues to terminal
 * [LethalCompanyVR](https://thunderstore.io/c/lethal-company/p/DaXcess/LethalCompanyVR/) - add VR support to game, other players can see VR players moves (**custom config included**)
 * [Mirage](https://thunderstore.io/c/lethal-company/p/qwbarch/Mirage/) - now masked players mimics player appearance, moves and voice (**custom config included**)
+* [MirageRevive](https://thunderstore.io/c/lethal-company/p/qwbarch/MirageRevive/) - revive players as mimics after their death
 * [Monster Plushies](https://thunderstore.io/c/lethal-company/p/Scintesto/Monster_Plushies/) - add monster plushes as scrap
 * [MoreCompany](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/) - increases lobby player limit
 * [MoreItems](https://thunderstore.io/c/lethal-company/p/Drakorle/MoreItems/) - Changes the max amount of items that the game saves from 45 to 999. 
@@ -36,7 +37,6 @@ Included mods:
 * [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/) - adds many emotes (**custom config included**)
 * [YippeeMod](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/) - Changes the chitter SFX of the Hoarding Bug to the yippee-tbh sound
 * [Maxwell ScrapItem](https://thunderstore.io/c/lethal-company/p/Kittenji/Maxwell_ScrapItem/) - Adds Maxwell cat as scrap
-* [Zombies](https://thunderstore.io/c/lethal-company/p/Synaxin/Zombies/) - add ability to spawn mimic after player death (**custom config included**)
 * [CustomPaintings](https://thunderstore.io/c/lethal-company/p/Boniato/CustomPaintings/) - Replaces Paiting textures (**custom config included**)
 * * [LCFurryCommissions](https://thunderstore.io/c/lethal-company/p/Citizen17/LCFurryCommissions/) - Personal paitings collections
 * [More Suits](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/) - base mod for adding suietes

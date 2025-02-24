@@ -4,13 +4,6 @@
 
 Modpack for Reina Mort friends
 
-### Additional steps
-
-- Update all mods to latest versions
-- Lauch game and close it. It needs to creating all config files.
-- Open config editing and find `CreatureReplacement.cfg`
-- Change parameter **Suits to enable Model for** to **CARed,CAGreen,CAHaz,CAPajam,CAPurp**
-
 ### Included mods
 
 * [AlwaysHearActiveWalkies](https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/) - Allows you to hear active walkies even when you're not holding them.
@@ -24,6 +17,7 @@ Modpack for Reina Mort friends
 * [LethalAutocomplete](https://thunderstore.io/c/lethal-company/p/red_eye/LethalAutocomplete/) - add autocomplete and history featues to terminal
 * [LethalCompanyVR](https://thunderstore.io/c/lethal-company/p/DaXcess/LethalCompanyVR/) - add VR support to game, other players can see VR players moves (**custom config included**)
 * [Mirage](https://thunderstore.io/c/lethal-company/p/qwbarch/Mirage/) - now masked players mimics player appearance, moves and voice (**custom config included**)
+* [MirageRevive](https://thunderstore.io/c/lethal-company/p/qwbarch/MirageRevive/) - revive players as mimics after their death
 * [Monster Plushies](https://thunderstore.io/c/lethal-company/p/Scintesto/Monster_Plushies/) - add monster plushes as scrap
 * [MoreCompany](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/) - increases lobby player limit
 * [MoreItems](https://thunderstore.io/c/lethal-company/p/Drakorle/MoreItems/) - Changes the max amount of items that the game saves from 45 to 999. 
@@ -36,7 +30,6 @@ Modpack for Reina Mort friends
 * [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/) - adds many emotes (**custom config included**)
 * [YippeeMod](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/) - Changes the chitter SFX of the Hoarding Bug to the yippee-tbh sound
 * [Maxwell ScrapItem](https://thunderstore.io/c/lethal-company/p/Kittenji/Maxwell_ScrapItem/) - Adds Maxwell cat as scrap
-* [Zombies](https://thunderstore.io/c/lethal-company/p/Synaxin/Zombies/) - add ability to spawn mimic after player death (**custom config included**)
 * [CustomPaintings](https://thunderstore.io/c/lethal-company/p/Boniato/CustomPaintings/) - Replaces Paiting textures (**custom config included**)
 * * [LCFurryCommissions](https://thunderstore.io/c/lethal-company/p/Citizen17/LCFurryCommissions/) - Personal paitings collections
 * [More Suits](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/) - base mod for adding suietes
@@ -55,13 +48,6 @@ Modpack for Reina Mort friends
 
 Модпак для друзей Reina Mort.
 
-### Дополнительные действия
-
-- Обновите все моды до последней версии.
-- Запустите игру и сразу выйдете, чтобы все конфиг файлы создались.
-- Откройте редактирование кофигов и найдите `CreatureReplacement.cfg`
-- В нём поменяйте параметр **Suits to enable Model for** на **CARed,CAGreen,CAHaz,CAPajam,CAPurp**
-
 ### Включённые моды
 
 * [AlwaysHearActiveWalkies](https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/) - позволяет слышать рацию даже если вы не держите её в руке
@@ -75,6 +61,7 @@ Modpack for Reina Mort friends
 * [LethalAutocomplete](https://thunderstore.io/c/lethal-company/p/red_eye/LethalAutocomplete/) - добавляет автодополнение и историю в терминале
 * [LethalCompanyVR](https://thunderstore.io/c/lethal-company/p/DaXcess/LethalCompanyVR/) - добавляет поддержку VR в игру, другие игроки могут движения VR игроков (**включён свой конфиг**)
 * [Mirage](https://thunderstore.io/c/lethal-company/p/qwbarch/Mirage/) - теперь мимики имитируют внешний вид, джижения и голос игроков (**включён свой конфиг**)
+* [MirageRevive](https://thunderstore.io/c/lethal-company/p/qwbarch/MirageRevive/) - воскрешает игроков как мимиков после их смерти
 * [Monster Plushies](https://thunderstore.io/c/lethal-company/p/Scintesto/Monster_Plushies/) - добавлет плюшевые игрушки монстров как лут
 * [MoreCompany](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/) - увеличивает максимум игроков в лобби
 * [MoreItems](https://thunderstore.io/c/lethal-company/p/Drakorle/MoreItems/) - увеличивает максимум сохраняемы предметов на корабле с 45 до 999. 
@@ -87,7 +74,6 @@ Modpack for Reina Mort friends
 * [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/) - добавляет кучу новых эмоций (**включён свой конфиг**)
 * [YippeeMod](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/) - заменяет звук жука собирателя на Юпиии!
 * [Maxwell ScrapItem](https://thunderstore.io/c/lethal-company/p/Kittenji/Maxwell_ScrapItem/) - добавляет кота Максвелла как лут
-* [Zombies](https://thunderstore.io/c/lethal-company/p/Synaxin/Zombies/) - добавляет появление мимиков после смерти игрока (**включён свой конфиг**)
 * [CustomPaintings](https://thunderstore.io/c/lethal-company/p/Boniato/CustomPaintings/) - Заменяет текстуры картин (**включён свой конфиг**)
 * * [LCFurryCommissions](https://thunderstore.io/c/lethal-company/p/Citizen17/LCFurryCommissions/) - Своя колекция картин
 * [More Suits](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/) - Базовый мод для добавления костюмов

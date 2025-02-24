@@ -25,6 +25,7 @@ Modpacks for Lethal Company to play with friends
 * [LethalAutocomplete](https://thunderstore.io/c/lethal-company/p/red_eye/LethalAutocomplete/) - добавляет автодополнение и историю в терминале
 * [LethalCompanyVR](https://thunderstore.io/c/lethal-company/p/DaXcess/LethalCompanyVR/) - добавляет поддержку VR в игру, другие игроки могут движения VR игроков (**включён свой конфиг**)
 * [Mirage](https://thunderstore.io/c/lethal-company/p/qwbarch/Mirage/) - теперь мимики имитируют внешний вид, джижения и голос игроков (**включён свой конфиг**)
+* [MirageRevive](https://thunderstore.io/c/lethal-company/p/qwbarch/MirageRevive/) - воскрешает игроков как мимиков после их смерти
 * [Monster Plushies](https://thunderstore.io/c/lethal-company/p/Scintesto/Monster_Plushies/) - добавлет плюшевые игрушки монстров как лут
 * [MoreCompany](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/) - увеличивает максимум игроков в лобби
 * [MoreItems](https://thunderstore.io/c/lethal-company/p/Drakorle/MoreItems/) - увеличивает максимум сохраняемы предметов на корабле с 45 до 999. 
@@ -37,7 +38,6 @@ Modpacks for Lethal Company to play with friends
 * [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/) - добавляет кучу новых эмоций (**включён свой конфиг**)
 * [YippeeMod](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/) - заменяет звук жука собирателя на Юпиии!
 * [Maxwell ScrapItem](https://thunderstore.io/c/lethal-company/p/Kittenji/Maxwell_ScrapItem/) - добавляет кота Максвелла как лут
-* [Zombies](https://thunderstore.io/c/lethal-company/p/Synaxin/Zombies/) - добавляет появление мимиков после смерти игрока (**включён свой конфиг**)
 * [CustomPaintings](https://thunderstore.io/c/lethal-company/p/Boniato/CustomPaintings/) - Заменяет текстуры картин (**включён свой конфиг**)
 * * [LCFurryCommissions](https://thunderstore.io/c/lethal-company/p/Citizen17/LCFurryCommissions/) - Своя колекция картин
 * [More Suits](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/) - Базовый мод для добавления костюмов
