@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.4.1
+
+Actual removal and updating
+
 ## v1.4.0
 
 Updated versions

@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.5.1
+
+Actual removal and updating
+
 ## v1.5.0
 
 Updated versions
