@@ -16,24 +16,22 @@ Modpacks for Lethal Company to play with friends
 
 * [AlwaysHearActiveWalkies](https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/) - позволяет слышать рацию даже если вы не держите её в руке
 * [BetterEmotes](https://thunderstore.io/c/lethal-company/p/KlutzyBubbles/BetterEmotes/) - покажи фак компании
-* [BetterTeleporter](https://thunderstore.io/c/lethal-company/p/SirTyler/BetterTeleporter/) - позволяет телепортироваться с некоторыми предметами
+* [BetterBetterTeleporter](https://thunderstore.io/c/lethal-company/p/jaramp/BetterBetterTeleporter/) - позволяет телепортироваться с некоторыми предметами
 * [Coroner](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/Coroner/) - забавные тексты по окончании уровня (**включён свой конфиг**)
-* [FairAI](https://thunderstore.io/c/lethal-company/p/TheFluff/FairAI/) - турели и мины могут наносить урон врагам (**включён свой конфиг**)
+* ~~[FairAI](https://thunderstore.io/c/lethal-company/p/TheFluff/FairAI/) - турели и мины могут наносить урон врагам (**включён свой конфиг**)~~ (временно убран)
 * [GeneralImprovements](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/) - множество мелких улучшений (**включён свой конфиг**)
 * [Helmet Cameras](https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/) - позволяет на корабле видеть изображение с нагрудных камер
-* [LateCompany](https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany/) - позволяет присоединяться игрокам между забегами в рамках квоты
 * [LethalAutocomplete](https://thunderstore.io/c/lethal-company/p/red_eye/LethalAutocomplete/) - добавляет автодополнение и историю в терминале
 * [LethalCompanyVR](https://thunderstore.io/c/lethal-company/p/DaXcess/LethalCompanyVR/) - добавляет поддержку VR в игру, другие игроки могут движения VR игроков (**включён свой конфиг**)
 * [Mirage](https://thunderstore.io/c/lethal-company/p/qwbarch/Mirage/) - теперь мимики имитируют внешний вид, джижения и голос игроков (**включён свой конфиг**)
 * [MirageRevive](https://thunderstore.io/c/lethal-company/p/qwbarch/MirageRevive/) - воскрешает игроков как мимиков после их смерти
-* [Monster Plushies](https://thunderstore.io/c/lethal-company/p/Scintesto/Monster_Plushies/) - добавлет плюшевые игрушки монстров как лут
+* [UpdatedPlushies](https://thunderstore.io/c/lethal-company/p/Mayberry/UpdatedPlushies/) - добавлет плюшевые игрушки монстров как лут
 * [MoreCompany](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/) - увеличивает максимум игроков в лобби
 * [MoreItems](https://thunderstore.io/c/lethal-company/p/Drakorle/MoreItems/) - увеличивает максимум сохраняемы предметов на корабле с 45 до 999. 
 * [ReservedWalkieSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot/) - добавляет отдельный слот под рацию
 * [RTLC Russian Translation](https://thunderstore.io/c/lethal-company/p/Hayrizan/RTLC_Russian_Translation/) - добавляет русский перевод
 * [RTLC Russian Translation Mods](https://thunderstore.io/c/lethal-company/p/Hayrizan/RTLC_Russian_Translation_Mods/) - добавляет русский перевод для модов
 * [ShipLoot](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/) - Показывает на сколько лута на корабле
-* [StarlancerAIFix](https://thunderstore.io/c/lethal-company/p/AudioKnight/StarlancerAIFix/) - различные ИИ фиксы
 * [Terminal Clock](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/Terminal_Clock/) - отображает время на терминале
 * [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/) - добавляет кучу новых эмоций (**включён свой конфиг**)
 * [YippeeMod](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/) - заменяет звук жука собирателя на Юпиии!

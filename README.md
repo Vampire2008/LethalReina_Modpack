@@ -15,24 +15,22 @@ Included mods:
 
 * [AlwaysHearActiveWalkies](https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/) - Allows you to hear active walkies even when you're not holding them.
 * [BetterEmotes](https://thunderstore.io/c/lethal-company/p/KlutzyBubbles/BetterEmotes/) - show fuck to company
-* [BetterTeleporter](https://thunderstore.io/c/lethal-company/p/SirTyler/BetterTeleporter/) - allow to teleport with some tools
+* [BetterBetterTeleporter](https://thunderstore.io/c/lethal-company/p/jaramp/BetterBetterTeleporter/) - allow to teleport with some tools
 * [Coroner](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/Coroner/) - funny death notes (**custom config included**)
-* [FairAI](https://thunderstore.io/c/lethal-company/p/TheFluff/FairAI/) - turrets and mines can damage enemies (**custom config included**)
+* ~~[FairAI](https://thunderstore.io/c/lethal-company/p/TheFluff/FairAI/) - turrets and mines can damage enemies (**custom config included**)~~ (temporary removed)
 * [GeneralImprovements](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/) - many little things (**custom config included**)
 * [Helmet Cameras](https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/) - allow to view first person camera of selected player on ship
-* [LateCompany](https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany/) - allow to join players in between quota rounds
 * [LethalAutocomplete](https://thunderstore.io/c/lethal-company/p/red_eye/LethalAutocomplete/) - add autocomplete and history featues to terminal
 * [LethalCompanyVR](https://thunderstore.io/c/lethal-company/p/DaXcess/LethalCompanyVR/) - add VR support to game, other players can see VR players moves (**custom config included**)
 * [Mirage](https://thunderstore.io/c/lethal-company/p/qwbarch/Mirage/) - now masked players mimics player appearance, moves and voice (**custom config included**)
 * [MirageRevive](https://thunderstore.io/c/lethal-company/p/qwbarch/MirageRevive/) - revive players as mimics after their death
-* [Monster Plushies](https://thunderstore.io/c/lethal-company/p/Scintesto/Monster_Plushies/) - add monster plushes as scrap
+* [UpdatedPlushies](https://thunderstore.io/c/lethal-company/p/Mayberry/UpdatedPlushies/) - add monster plushes as scrap
 * [MoreCompany](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/) - increases lobby player limit
 * [MoreItems](https://thunderstore.io/c/lethal-company/p/Drakorle/MoreItems/) - Changes the max amount of items that the game saves from 45 to 999. 
 * [ReservedWalkieSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot/) - Gives a dedicated Walkie slot on the right side of your screen.
 * [RTLC Russian Translation](https://thunderstore.io/c/lethal-company/p/Hayrizan/RTLC_Russian_Translation/) - adds russian translation
 * [RTLC Russian Translation Mods](https://thunderstore.io/c/lethal-company/p/Hayrizan/RTLC_Russian_Translation_Mods/) - add russian translation to mods
 * [ShipLoot](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/) - Reliably shows the total value of all scrap in your ship.
-* [StarlancerAIFix](https://thunderstore.io/c/lethal-company/p/AudioKnight/StarlancerAIFix/) - some AI fixes
 * [Terminal Clock](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/Terminal_Clock/) - displays timer on terminal
 * [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/) - adds many emotes (**custom config included**)
 * [YippeeMod](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/) - Changes the chitter SFX of the Hoarding Bug to the yippee-tbh sound

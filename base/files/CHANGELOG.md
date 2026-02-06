@@ -1,5 +1,14 @@
 # Changelog
 
+## v1.5.0
+
+Updated versions
+Replaced BetterTeleporter with BetterBetterTeleporter
+Replaced Monster Plushed with UpdatedPlushies
+Removed LateCompany
+Removed StarlancerAIFix
+Temporary removed FairAI until it fix bugs
+
 ## v1.3.0
 
 Added WedgedCompany mod
