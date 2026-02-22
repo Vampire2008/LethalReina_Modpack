@@ -10,7 +10,7 @@ Modpack for Reina Mort friends
 * [BetterEmotes](https://thunderstore.io/c/lethal-company/p/KlutzyBubbles/BetterEmotes/) - show fuck to company
 * [BetterBetterTeleporter](https://thunderstore.io/c/lethal-company/p/jaramp/BetterBetterTeleporter/) - allow to teleport with some tools
 * [Coroner](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/Coroner/) - funny death notes (**custom config included**)
-* ~~[FairAI](https://thunderstore.io/c/lethal-company/p/TheFluff/FairAI/) - turrets and mines can damage enemies (**custom config included**)~~ (temporary removed)
+* [FairAI](https://thunderstore.io/c/lethal-company/p/TheFluff/FairAI/) - turrets and mines can damage enemies (**custom config included**)
 * [GeneralImprovements](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/) - many little things (**custom config included**)
 * [Helmet Cameras](https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/) - allow to view first person camera of selected player on ship
 * [LethalAutocomplete](https://thunderstore.io/c/lethal-company/p/red_eye/LethalAutocomplete/) - add autocomplete and history featues to terminal

@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.4.2
+
+Fair AI returned
+Added Coroner Mimics integration
+
 ## v1.4.1
 
 Actual removal and updating

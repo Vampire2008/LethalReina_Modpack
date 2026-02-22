@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.5.2
+
+Fair AI returned
+
 ## v1.5.1
 
 Actual removal and updating

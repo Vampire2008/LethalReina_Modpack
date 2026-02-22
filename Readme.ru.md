@@ -18,7 +18,7 @@ Modpacks for Lethal Company to play with friends
 * [BetterEmotes](https://thunderstore.io/c/lethal-company/p/KlutzyBubbles/BetterEmotes/) - покажи фак компании
 * [BetterBetterTeleporter](https://thunderstore.io/c/lethal-company/p/jaramp/BetterBetterTeleporter/) - позволяет телепортироваться с некоторыми предметами
 * [Coroner](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/Coroner/) - забавные тексты по окончании уровня (**включён свой конфиг**)
-* ~~[FairAI](https://thunderstore.io/c/lethal-company/p/TheFluff/FairAI/) - турели и мины могут наносить урон врагам (**включён свой конфиг**)~~ (временно убран)
+* [FairAI](https://thunderstore.io/c/lethal-company/p/TheFluff/FairAI/) - турели и мины могут наносить урон врагам (**включён свой конфиг**)
 * [GeneralImprovements](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/) - множество мелких улучшений (**включён свой конфиг**)
 * [Helmet Cameras](https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/) - позволяет на корабле видеть изображение с нагрудных камер
 * [LethalAutocomplete](https://thunderstore.io/c/lethal-company/p/red_eye/LethalAutocomplete/) - добавляет автодополнение и историю в терминале
