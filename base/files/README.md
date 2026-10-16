@@ -6,8 +6,8 @@ Modpack for Reina Mort friends
 
 ### Included mods
 
-* [AlwaysHearActiveWalkies](https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/) - Allows you to hear active walkies even when you're not holding them.
-* [BetterEmotes](https://thunderstore.io/c/lethal-company/p/KlutzyBubbles/BetterEmotes/) - show fuck to company
+* [AlwaysHearActiveWalkiesFork](https://thunderstore.io/c/lethal-company/p/ZetaArcade/AlwaysHearActiveWalkiesFork/) - Allows you to hear active walkies even when you're not holding them.
+* [MuchBetterEmotes](https://thunderstore.io/c/lethal-company/p/seechela/MuchBetterEmotes/) - show fuck to company
 * [BetterBetterTeleporter](https://thunderstore.io/c/lethal-company/p/jaramp/BetterBetterTeleporter/) - allow to teleport with some tools
 * [Coroner](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/Coroner/) - funny death notes (**custom config included**)
 * [FairAI](https://thunderstore.io/c/lethal-company/p/TheFluff/FairAI/) - turrets and mines can damage enemies (**custom config included**)
@@ -15,19 +15,18 @@ Modpack for Reina Mort friends
 * [Helmet Cameras](https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/) - allow to view first person camera of selected player on ship
 * [LethalAutocomplete](https://thunderstore.io/c/lethal-company/p/red_eye/LethalAutocomplete/) - add autocomplete and history featues to terminal
 * [LethalCompanyVR](https://thunderstore.io/c/lethal-company/p/DaXcess/LethalCompanyVR/) - add VR support to game, other players can see VR players moves (**custom config included**)
+* [LobbyControl](https://thunderstore.io/c/lethal-company/p/mattymatty/LobbyControl/) - lobby management (including connection between days) and connection queue (**custom config included**)
+* [Matty Fixes](https://thunderstore.io/c/lethal-company/p/mattymatty/Matty_Fixes/) - bug fixes
 * [Mirage](https://thunderstore.io/c/lethal-company/p/qwbarch/Mirage/) - now masked players mimics player appearance, moves and voice (**custom config included**)
 * [MirageRevive](https://thunderstore.io/c/lethal-company/p/qwbarch/MirageRevive/) - revive players as mimics after their death
 * [UpdatedPlushies](https://thunderstore.io/c/lethal-company/p/Mayberry/UpdatedPlushies/) - add monster plushes as scrap
 * [MoreCompany](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/) - increases lobby player limit
-* [MoreItems](https://thunderstore.io/c/lethal-company/p/Drakorle/MoreItems/) - Changes the max amount of items that the game saves from 45 to 999. 
 * [ReservedWalkieSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot/) - Gives a dedicated Walkie slot on the right side of your screen.
-* [RTLC Russian Translation](https://thunderstore.io/c/lethal-company/p/Hayrizan/RTLC_Russian_Translation/) - adds russian translation
-* [RTLC Russian Translation Mods](https://thunderstore.io/c/lethal-company/p/Hayrizan/RTLC_Russian_Translation_Mods/) - add russian translation to mods
-* [ShipLoot](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/) - Reliably shows the total value of all scrap in your ship.
-* [Terminal Clock](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/Terminal_Clock/) - displays timer on terminal
+* [ShipLoot](https://thunderstore.io/c/lethal-company/p/Dysora/ShipLoot/) - Reliably shows the total value of all scrap in your ship.
 * [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/) - adds many emotes (**custom config included**)
 * [YippeeMod](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/) - Changes the chitter SFX of the Hoarding Bug to the yippee-tbh sound
 * [Maxwell ScrapItem](https://thunderstore.io/c/lethal-company/p/Kittenji/Maxwell_ScrapItem/) - Adds Maxwell cat as scrap
+* [Filly Scrap](https://thunderstore.io/c/lethal-company/p/DeviousEquine/Filly_Scrap/) - Adds pony figures as scrap
 * [CustomPaintings](https://thunderstore.io/c/lethal-company/p/Boniato/CustomPaintings/) - Replaces Paiting textures (**custom config included**)
 * * [LCFurryCommissions](https://thunderstore.io/c/lethal-company/p/Citizen17/LCFurryCommissions/) - Personal paitings collections
 * [More Suits](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/) - base mod for adding suietes
@@ -41,6 +40,7 @@ Modpack for Reina Mort friends
 * * [League of Stinkies](https://thunderstore.io/c/lethal-company/p/Zhonya/League_of_Stinkies/) - add models from League of Legends
 * * [LethalPepsiManCo](https://thunderstore.io/c/lethal-company/p/Prism5/LethalPepsiManCo/) - add PepsiMan model
 * * [WedgedCompany](https://thunderstore.io/c/lethal-company/p/teremunart/WedgedCompany/) - add sergal model
+* * [CheddarPM](https://thunderstore.io/c/lethal-company/p/ardentArmando/CheddarPM/) - add big mouse model
 
 ## Русский
 
@@ -48,28 +48,27 @@ Modpack for Reina Mort friends
 
 ### Включённые моды
 
-* [AlwaysHearActiveWalkies](https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/) - позволяет слышать рацию даже если вы не держите её в руке
-* [BetterEmotes](https://thunderstore.io/c/lethal-company/p/KlutzyBubbles/BetterEmotes/) - покажи фак компании
+* [AlwaysHearActiveWalkiesFork](https://thunderstore.io/c/lethal-company/p/ZetaArcade/AlwaysHearActiveWalkiesFork/) - позволяет слышать рацию даже если вы не держите её в руке
+* [MuchBetterEmotes](https://thunderstore.io/c/lethal-company/p/seechela/MuchBetterEmotes/) - покажи фак компании
 * [BetterBetterTeleporter](https://thunderstore.io/c/lethal-company/p/jaramp/BetterBetterTeleporter/) - позволяет телепортироваться с некоторыми предметами
 * [Coroner](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/Coroner/) - забавные тексты по окончании уровня (**включён свой конфиг**)
-* ~~[FairAI](https://thunderstore.io/c/lethal-company/p/TheFluff/FairAI/) - турели и мины могут наносить урон врагам (**включён свой конфиг**)~~ (временно убран)
+* [FairAI](https://thunderstore.io/c/lethal-company/p/TheFluff/FairAI/) - турели и мины могут наносить урон врагам (**включён свой конфиг**)
 * [GeneralImprovements](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/) - множество мелких улучшений (**включён свой конфиг**)
 * [Helmet Cameras](https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/) - позволяет на корабле видеть изображение с нагрудных камер
 * [LethalAutocomplete](https://thunderstore.io/c/lethal-company/p/red_eye/LethalAutocomplete/) - добавляет автодополнение и историю в терминале
 * [LethalCompanyVR](https://thunderstore.io/c/lethal-company/p/DaXcess/LethalCompanyVR/) - добавляет поддержку VR в игру, другие игроки могут движения VR игроков (**включён свой конфиг**)
+* [LobbyControl](https://thunderstore.io/c/lethal-company/p/mattymatty/LobbyControl/) - управление лобби (в том числе подключение между вылетами) и очередь подключений (**включён свой конфиг**)
+* [Matty Fixes](https://thunderstore.io/c/lethal-company/p/mattymatty/Matty_Fixes/) - исправления ошибок
 * [Mirage](https://thunderstore.io/c/lethal-company/p/qwbarch/Mirage/) - теперь мимики имитируют внешний вид, джижения и голос игроков (**включён свой конфиг**)
 * [MirageRevive](https://thunderstore.io/c/lethal-company/p/qwbarch/MirageRevive/) - воскрешает игроков как мимиков после их смерти
 * [UpdatedPlushies](https://thunderstore.io/c/lethal-company/p/Mayberry/UpdatedPlushies/) - добавлет плюшевые игрушки монстров как лут
 * [MoreCompany](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/) - увеличивает максимум игроков в лобби
-* [MoreItems](https://thunderstore.io/c/lethal-company/p/Drakorle/MoreItems/) - увеличивает максимум сохраняемы предметов на корабле с 45 до 999. 
 * [ReservedWalkieSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot/) - добавляет отдельный слот под рацию
-* [RTLC Russian Translation](https://thunderstore.io/c/lethal-company/p/Hayrizan/RTLC_Russian_Translation/) - добавляет русский перевод
-* [RTLC Russian Translation Mods](https://thunderstore.io/c/lethal-company/p/Hayrizan/RTLC_Russian_Translation_Mods/) - добавляет русский перевод для модов
-* [ShipLoot](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/) - Показывает на сколько лута на корабле
-* [Terminal Clock](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/Terminal_Clock/) - отображает время на терминале
+* [ShipLoot](https://thunderstore.io/c/lethal-company/p/Dysora/ShipLoot/) - Показывает на сколько лута на корабле
 * [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/) - добавляет кучу новых эмоций (**включён свой конфиг**)
 * [YippeeMod](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/) - заменяет звук жука собирателя на Юпиии!
 * [Maxwell ScrapItem](https://thunderstore.io/c/lethal-company/p/Kittenji/Maxwell_ScrapItem/) - добавляет кота Максвелла как лут
+* [Filly Scrap](https://thunderstore.io/c/lethal-company/p/DeviousEquine/Filly_Scrap/) - добавляет фигурки поней как лут
 * [CustomPaintings](https://thunderstore.io/c/lethal-company/p/Boniato/CustomPaintings/) - Заменяет текстуры картин (**включён свой конфиг**)
 * * [LCFurryCommissions](https://thunderstore.io/c/lethal-company/p/Citizen17/LCFurryCommissions/) - Своя колекция картин
 * [More Suits](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/) - Базовый мод для добавления костюмов
@@ -83,3 +82,4 @@ Modpack for Reina Mort friends
 * * [League of Stinkies](https://thunderstore.io/c/lethal-company/p/Zhonya/League_of_Stinkies/) - добавлят модели из League of Legends
 * * [LethalPepsiManCo](https://thunderstore.io/c/lethal-company/p/Prism5/LethalPepsiManCo/) - добаляет модель ПепсиМена
 * * [WedgedCompany](https://thunderstore.io/c/lethal-company/p/teremunart/WedgedCompany/) - добавляет модель сергала
+* * [CheddarPM](https://thunderstore.io/c/lethal-company/p/ardentArmando/CheddarPM/) - добавляет модель большой мыши

@@ -1,46 +1,53 @@
 # Changelog
 
+## v1.6.0
+
+- Updated the shared mod set and dependency versions.
+- Added CheddarPM, LobbyControl, and Matty Fixes.
+- Replaced AlwaysHearActiveWalkies with AlwaysHearActiveWalkiesFork.
+- Replaced BetterEmotes with MuchBetterEmotes.
+- Removed MoreItems (included in LobbyControl) and the RTLC translation packages.
+
 ## v1.5.2
 
-Fair AI returned
+- Returned FairAI.
 
 ## v1.5.1
 
-Actual removal and updating
+- Removed obsolete mods and updated dependencies.
 
 ## v1.5.0
 
-Updated versions
-Replaced BetterTeleporter with BetterBetterTeleporter
-Replaced Monster Plushed with UpdatedPlushies
-Removed LateCompany
-Removed StarlancerAIFix
-Temporary removed FairAI until it fix bugs
+- Updated mod versions.
+- Replaced BetterTeleporter with BetterBetterTeleporter.
+- Replaced Monster Plushies with UpdatedPlushies.
+- Removed LateCompany and StarlancerAIFix.
+- Temporarily removed FairAI while its bugs were being fixed.
 
 ## v1.3.0
 
-Added WedgedCompany mod
-Added config for VR mod that disable by default.
-Added config for Mirage that increase time duration between talking
-Fix language config for Coroner
-Added config for Zombies that disable infection
+- Added WedgedCompany.
+- Added a configuration that disables VR by default.
+- Adjusted the Mirage delay between voice lines.
+- Fixed Coroner's language configuration.
+- Added a configuration that disables Zombies infection.
 
 ## v1.2.3
 
-Removed config for LethalCreature, but added instruction for configuring it.
+- Removed the LethalCreature configuration and added setup instructions instead.
 
 ## v1.2.2
 
-Updated Readme
+- Updated the README.
 
 ## v1.2.0
 
-Added CustomPaintings, LCFurryCommissions, Maxwell_ScrapItem and additional configs
+- Added CustomPaintings, LCFurryCommissions, Maxwell ScrapItem, and additional configurations.
 
 ## v1.1.0
 
-Added mods GeneralImprovements and Zombies
+- Added GeneralImprovements and Zombies.
 
 ## v1.0.0
 
-Initial release
+- Initial release.

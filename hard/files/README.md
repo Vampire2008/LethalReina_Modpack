@@ -8,6 +8,7 @@ Recomended to read [base modpack](https://thunderstore.io/c/lethal-company/p/Cit
 ### Additional mods:
 
 * [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/) - adds additinal fire exits but they are mimics
+* [Coroner Mimics](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/CoronerMimics/) - integrates Mimics with Coroner
 
 Also includes custom config for GeneralImprovements that add nameplate to mimics and disaples rotaing on cameras.
 
@@ -19,5 +20,6 @@ Also includes custom config for GeneralImprovements that add nameplate to mimics
 ### Дополнительные моды:
 
 * [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/) - добавляет дополнительные пожарные выходы, но они мимики
+* [Coroner Mimics](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/CoronerMimics/) - интегрирует мимиков в отчёты Coroner
 
 Также включает свой конфиг для GeneralImprovements, который включает у мимиков отображение имени и выключает кручение на камере

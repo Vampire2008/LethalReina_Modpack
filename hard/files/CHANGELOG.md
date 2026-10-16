@@ -1,39 +1,43 @@
 # Changelog
 
+## v1.5.0
+
+- Updated Mimics to 2.7.4 and Coroner Mimics to 1.0.2.
+- Refreshed the shared dependencies and configurations included in the package.
+
 ## v1.4.2
 
-Fair AI returned
-Added Coroner Mimics integration
+- Returned FairAI.
+- Added Coroner Mimics integration.
 
 ## v1.4.1
 
-Actual removal and updating
+- Removed obsolete mods and updated dependencies.
 
 ## v1.4.0
 
-Updated versions
-Replaced BetterTeleporter with BetterBetterTeleporter
-Replaced Monster Plushed with UpdatedPlushies
-Removed LateCompany
-Removed StarlancerAIFix
-Temporary removed FairAI until it fix bugs
+- Updated mod versions.
+- Replaced BetterTeleporter with BetterBetterTeleporter.
+- Replaced Monster Plushies with UpdatedPlushies.
+- Removed LateCompany and StarlancerAIFix.
+- Temporarily removed FairAI while its bugs were being fixed.
 
 ## v1.2.0
 
-Added WedgedCompany mod
-Added config for VR mod that disable by default.
-Added config for Mirage that increase time duration between talking
-Fix language config for Coroner
-Added config for Zombies that disable infection
+- Added WedgedCompany.
+- Added a configuration that disables VR by default.
+- Adjusted the Mirage delay between voice lines.
+- Fixed Coroner's language configuration.
+- Added a configuration that disables Zombies infection.
 
 ## v1.1.1
 
-Removed config for LethalCreature, but added instruction for configuring it.
+- Removed the LethalCreature configuration and added setup instructions instead.
 
 ## v1.1.0
 
-Removed direct dependency of original modpack. Now all dependencies and configs are copied from base modpack.
+- Removed the direct dependency on the original modpack; shared dependencies and configurations are now included in this package.
 
 ## v1.0.0
 
-Initial release
+- Initial release.
